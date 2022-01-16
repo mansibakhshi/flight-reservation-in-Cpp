@@ -9,7 +9,6 @@
 #include<string.h>
 #include<dos.h>
 #include<process.h>
-using namespace std ;
 
 //*********************************CLASSES******************************************
 
